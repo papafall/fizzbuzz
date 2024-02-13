@@ -12,7 +12,7 @@ This simple web-based FizzBuzz game generates a random number between 1 and 100 
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Go to https://papafall.github.io/fizzbuzz/
 2. Click the "Spin" button to generate a random number and see the FizzBuzz outcome.
 3. The game provides feedback on whether the number is divisible by 3, 5, both, or neither.
 4. You get 10 attempts to generate a FizzBuzz number.
@@ -28,9 +28,3 @@ This simple web-based FizzBuzz game generates a random number between 1 and 100 
 - `index.html`: HTML file containing the structure of the web page.
 - `style.css`: CSS file for styling the web page.
 - `script.js`: JavaScript file containing the FizzBuzz game logic.
-
-## Author
-
-[Your Name]
-
-Feel free to customize this `readme.md` file with additional details or information specific to your project.
